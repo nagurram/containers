@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmJegiUN0K4=",
+  "success": true,
+  "projectFilePath": "D:\\github\\Repos\\nagurram\\containers\\videosUpload\\videosUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naren\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
